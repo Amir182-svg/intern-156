@@ -16,3 +16,6 @@ env/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Node.js dependencies
+node_modules/
