@@ -1,0 +1,218 @@
+[
+  {
+    "id": "kb_01",
+    "category": "01. Introduction",
+    "topic": "Society Overview",
+    "question": "What is Inquisitors Society?",
+    "content": "Inquisitors Society is a student-run society at the University of Engineering and Technology (UET), Lahore, focused on technical excellence, professional development, leadership, and community engagement. The society organizes educational, technical, career-development, leadership, and community-oriented activities.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 01"
+  },
+  {
+    "id": "kb_02",
+    "category": "02. Society Activities",
+    "topic": "Activities Offered",
+    "question": "What activities does Inquisitors Society organize?",
+    "content": "Inquisitors Society organizes and supports a range of activities, including Technical Events, Workshops, Conferences, Seminars, Competitions, Industrial Tours, Research Activities, Career Development Programs, Leadership Activities, CSS Sessions, IELTS Sessions, Mock Interviews, Weekly Discussions, Book Fairs, and Community Activities. These aim to provide students with learning, professional development, networking, leadership, and community engagement opportunities.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 02"
+  },
+  {
+    "id": "kb_03",
+    "category": "03. Platform Users",
+    "topic": "User Roles & Permissions",
+    "question": "Who can use the Inquisitor platform?",
+    "content": "The platform supports 5 types of users: 1. Students (access courses, participate in events, apply for internships, build portfolios, join discussions), 2. Teachers / Faculty (manage courses, conduct virtual classes, evaluate student work), 3. Mentors (guide students, evaluate internship applications, provide feedback), 4. Companies (post internships, review applications, manage recruitment), 5. Administrators (manage users, content, platform operations, analytics).",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 03"
+  },
+  {
+    "id": "kb_04",
+    "category": "04. Learning & Courses",
+    "topic": "Educational Features & Course Rules",
+    "question": "What are the rules and features for taking courses on the platform?",
+    "content": "The platform includes professional courses, lessons & modules, assignments, quizzes, progress tracking, virtual classrooms, and course certificates. Course Rules: 1. Students can enroll in a maximum of 5 courses per semester. 2. Prerequisite courses must be completed before enrolling in advanced courses. 3. Course completion requires a minimum 60% score in quizzes and assignments. 4. Paid courses require payment before access. 5. Refunds for paid courses are allowed within 7 days of enrollment, provided no lessons have been accessed. 6. Course certificates are issued after full completion. 7. 80% attendance is required for certificate eligibility.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 04"
+  },
+  {
+    "id": "kb_05",
+    "category": "05. Certificates",
+    "topic": "Digital Certificates & QR Verification",
+    "question": "How do digital certificates work and how are they verified?",
+    "content": "The platform supports digital certificates. Certificate rules: 1. Digital certificates remain valid indefinitely unless revoked. 2. Certificates contain unique QR codes for instant online verification. 3. Certificate templates require administrative approval. 4. Certificates cannot be altered or forged. 5. Duplicate certificates can be requested subject to a processing fee.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 05"
+  },
+  {
+    "id": "kb_06",
+    "category": "06. Membership",
+    "topic": "Membership Eligibility & Guardrails",
+    "question": "Who is eligible for free membership and what are the requirements?",
+    "content": "Membership Eligibility: 1. Students of UET Lahore and affiliated institutions are eligible for free membership. 2. External members may be required to pay a nominal registration fee determined by the society. 3. Membership is renewed annually at the beginning of the academic year. 4. Members must agree to the society's code of conduct. 5. A valid university email is required for verification. 6. Alumni members may have limited access to certain features. 7. Members are required to complete their profile within 7 days of registration. Note: Current external member fee, current registration links, and exact application procedures are unverified and must not be invented by the chatbot.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 06"
+  },
+  {
+    "id": "kb_07",
+    "category": "07. Internships General Rules",
+    "topic": "General Internship Regulations",
+    "question": "What are the general rules for posting and applying for internships?",
+    "content": "General Internship Rules: 1. Only registered companies can post internships. 2. Internships require administrative approval before publication. 3. Students can apply to a maximum of 5 internships per month. 4. Internship duration is specified as 4 weeks to 6 months. 5. Interns must submit weekly progress reports. 6. Internship completion requires mentor evaluation and company feedback. 7. Successful interns receive completion certificates from the company.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 07"
+  },
+  {
+    "id": "kb_08",
+    "category": "08. Internship Program 2026",
+    "topic": "2026 Internship Program Focus",
+    "question": "What is the INQUISITORS Society Internship Program 2026?",
+    "content": "Program Type: Virtual Internship Program & Hybrid Internship Program. Eligibility: Open to students from all universities and disciplines (per program announcement). Program Focus: Artificial Intelligence, AI tools, AI workflows & automation, Web development, Graphic design, Leadership, Communication, Professional & soft skills.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 08"
+  },
+  {
+    "id": "kb_09",
+    "category": "09. AI Tools Covered",
+    "topic": "AI Tools in 2026 Internship Poster",
+    "question": "What AI tools are covered in the 2026 internship?",
+    "content": "AI Tools Covered (as listed on the 2026 internship poster): ChatGPT, Claude AI, Google Gemini, Microsoft Copilot, Perplexity AI, Canva AI, Gamma AI, Notion AI, ElevenLabs, Lovable AI, Bolt.new, Cursor AI, GitHub Copilot, Midjourney and other AI image-generation tools.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 09"
+  },
+  {
+    "id": "kb_10",
+    "category": "10. AI Workflows",
+    "topic": "AI Workflows & Automation",
+    "question": "What AI workflows are taught in the internship?",
+    "content": "AI Workflows Covered: Prompt Engineering, AI-Assisted Research, Content Creation, Graphic Design Workflows, Website Development, Automation, Documentation, Productivity Systems, Data Analysis, and AI Collaboration Techniques.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 10"
+  },
+  {
+    "id": "kb_11",
+    "category": "11. Technical Skills",
+    "topic": "Technical Skills Covered",
+    "question": "What technical skills are included in the internship?",
+    "content": "Technical Skills Covered: Website Development, UI/UX Design, Content Writing, Graphic Designing, Social Media Management, Video Editing, Research & Documentation, Project Management.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 11"
+  },
+  {
+    "id": "kb_12",
+    "category": "12. Soft Skills",
+    "topic": "Soft Skills Covered",
+    "question": "What soft skills does the program focus on?",
+    "content": "Soft Skills Covered: Leadership, Communication, Public Speaking, Teamwork, Critical Thinking, Problem Solving, Time Management, Professional Ethics, Creativity, Adaptability, Networking, and Interview Preparation.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 12"
+  },
+  {
+    "id": "kb_13",
+    "category": "13. Internship Benefits",
+    "topic": "Benefits Offered",
+    "question": "What benefits are advertised for the 2026 internship?",
+    "content": "Internship Benefits: Hands-on project experience, Industry mentorship, Team collaboration, Leadership opportunities, Portfolio development, Networking with professionals, Experience Letter, Recommendation Letter for top performers, National and International Certifications, AI tools training, AI workflow development, Resume & LinkedIn optimization, Mock interviews, Career guidance, Team-based learning, Flexible virtual and hybrid learning, and Community access.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 13"
+  },
+  {
+    "id": "kb_14",
+    "category": "14. Internship Certifications",
+    "topic": "Certificates Awarded",
+    "question": "What certifications are awarded in the internship?",
+    "content": "Certifications Awarded: Inquisitors Society Internship Certificate, National Skill Development Certificates, International Professional Development Certificates, AI & Emerging Technologies Certifications, Leadership & Team Management Certifications, Project Completion Certificates, Digital Skills Certifications, Soft Skills & Communication Certifications, Workshop & Training Participation Certificates, Outstanding Performance & Excellence Awards, Letter of Recommendation for exceptional interns, and Internship Experience Letter.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 14"
+  },
+  {
+    "id": "kb_15",
+    "category": "15. Internship Application",
+    "topic": "Portal URL & Deadline Rule",
+    "question": "How can I apply for the 2026 internship and what is the deadline?",
+    "content": "Application Page: www.inquisitorssociety.org/apply. Advertised Deadline: 12 July 2026 — 11:59 PM (GMT). Availability: Limited Seats Available. Important Current-Status Rule: Because the advertised deadline was 12 July 2026, the chatbot must not state that this application is open without new confirmation. Safe response: 'The advertised application deadline was 12 July 2026. Please contact Inquisitors Society or check its current official channels for any updated intake or extension.'",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 15"
+  },
+  {
+    "id": "kb_16",
+    "category": "16. Events",
+    "topic": "Event Types & Regulations",
+    "question": "What event types are supported and what are the event rules?",
+    "content": "Event Types Supported: Seminars, Workshops, Hackathons, Conferences, Competitions, Industrial Tours, Book Fairs, Leadership activities, CSS sessions, IELTS sessions. Event Rules: 1. Event registration closes 24 hours before the event starts. 2. Paid event fees are non-refundable unless the event is cancelled. 3. Participants must provide valid contact information. 4. QR codes are valid for single entry. 5. Participation certificates are issued only to registered attendees. 6. Volunteers must complete required training before the event. 7. Organizers must commit to the full event duration. Note: No current/upcoming event list was provided in KB; chatbot must not invent event names, dates, venues, fees, or registration links.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 16"
+  },
+  {
+    "id": "kb_17",
+    "category": "17. Career Development",
+    "topic": "Career Portal Features",
+    "question": "What career development features does the platform provide?",
+    "content": "Career Portal Features: Job Board, Portfolio Building, Career Resources, Skill Assessment, Career Guidance, and Professional Development. The career portal is designed to provide job opportunities, portfolio-building functionality, and career resources.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 17"
+  },
+  {
+    "id": "kb_18",
+    "category": "18. Community Activities",
+    "topic": "Community Guidelines & Conduct",
+    "question": "What are the community guidelines for users?",
+    "content": "Community Guidelines: Users are expected to: 1. Treat community members respectfully. 2. Avoid spam and promotional content. 3. Avoid harassment, discrimination, and hate speech. 4. Report inappropriate content to moderators. 5. Post original content or provide proper attribution. Violations may lead to temporary or permanent account suspension, while repeated violations result in a permanent ban.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 18"
+  },
+  {
+    "id": "kb_19",
+    "category": "19. Orphanage Outreach Program",
+    "topic": "Social Impact Outreach Details",
+    "question": "What is the Orphanage Outreach program and how to join?",
+    "content": "Program Name: INQUISITORS SOCIETY | ORPHANAGE OUTREACH. Purpose: Learning, games, mentorship, interaction, support, care, and creating meaningful experiences for children. Planned Activities: Learning activities, games and fun activities, mentorship and interaction, support and care. Registration: A Google Form registration link was provided in the official announcement. WhatsApp Group: A WhatsApp group link was also provided for participants.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 19"
+  },
+  {
+    "id": "kb_20",
+    "category": "20. Contact Information",
+    "topic": "Official Email & Phone Contacts",
+    "question": "What is the official contact email and phone number?",
+    "content": "Official Email: info@inquisitorssociety.org. Official Phone: +92 (309) 868-8664 (number shown on 2026 internship poster). Community: Global Community. Verification Note: Confirm phone number with society before treating as single definitive contact.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 20"
+  },
+  {
+    "id": "kb_21",
+    "category": "21. Social Media & Online Presence",
+    "topic": "Social Media Channels & Advisor",
+    "question": "Where can I follow Inquisitors Society online?",
+    "content": "Official Social Media Presence: WhatsApp Channel (Official link provided), Facebook: facebook.com/INQUISITORSSOCIETY/, Instagram: instagram.com/inquisitorssociety/, LinkedIn: Active presence including 2026 internship program and 2026-27 hierarchy registration. Official Recognition: Listed among registered student societies at UET Lahore for 2025-2026 academic year, with Dr. Anna Niazi (Director Students Affairs) listed as advisor.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 21"
+  },
+  {
+    "id": "kb_22",
+    "category": "22. Frequently Asked Questions",
+    "topic": "Quick General FAQs",
+    "question": "What are the common FAQs answered by the chatbot?",
+    "content": "Q: What is Inquisitors Society? A: Student-run society at UET Lahore focused on technical excellence & community engagement. Q: Who can use platform? A: Students, faculty, mentors, companies, admins. Q: Is free membership for UET students? A: Yes, free for UET Lahore & affiliated students. Q: Maximum courses per semester? A: Max 5 courses per semester. Q: Required completion score? A: Minimum 60% in quizzes/assignments. Q: Attendance required? A: 80% attendance. Q: How many internships per month? A: Up to 5 per month.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 22"
+  },
+  {
+    "id": "kb_23",
+    "category": "23. Chatbot Fallback Response",
+    "topic": "Standard Safety Fallback Statement",
+    "question": "What is the fallback response when information is unverified?",
+    "content": "Standard Fallback Response: 'I'm sorry, but I don't have verified information about that at the moment. Please contact Inquisitors Society at info@inquisitorssociety.org or through its official social-media channels for assistance.'",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 23"
+  },
+  {
+    "id": "kb_24",
+    "category": "24. Information Chatbot Must Not Invent",
+    "topic": "Unverified Topics Guardrail List",
+    "question": "What information must the chatbot never invent?",
+    "content": "The chatbot MUST NOT INVENT: Current membership fees, Membership registration links, Current membership benefits, Upcoming event dates, Event fees, Event venues, Current internship deadlines, Current internship availability, Internship stipend, Selection results, Unannounced programs, Unverified society services, Unverified contact numbers.",
+    "verification": "Verified",
+    "source": "Inquisitors Society KB Section 24"
+  }
+]
